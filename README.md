@@ -25,8 +25,8 @@ To implement Principal Component Analysis (PCA) to reduce the dimensionality of 
 ```
 /*
 Program to implement Principal Component Analysis (PCA) for dimensionality reduction on the energy data.
-Developed by: MONICA G
-RegisterNumber: 212224040198
+Developed by: R K NIKKIL VARSHAN
+RegisterNumber: 212225040280
 
 
 # Import necessary libraries
